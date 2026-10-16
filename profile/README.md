@@ -35,30 +35,51 @@ Người dùng có thể khám phá:
 - Nhân vật, địa danh và văn hóa.
 - Mối liên hệ giữa các nội dung.
 - Nguồn tham khảo của thông tin.
+
 ---
+
 ## Developers
 
 <div align="center">
 
-<a href="https://github.com/TranDucManhQCT" title="Trần Đức Mạnh">
-  <img src="https://github.com/TranDucManhQCT.png" width="96" alt="Trần Đức Mạnh">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/baolong2006" title="Võ Hữu Bảo Long">
-  <img src="https://github.com/baolong2006.png" width="96" alt="Võ Hữu Bảo Long">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/phamdaiquocnguyen" title="Phạm Đại Quốc Nguyên">
-  <img src="https://github.com/phamdaiquocnguyen.png" width="96" alt="Phạm Đại Quốc Nguyên">
-</a>
+<table>
+<tr>
 
-<br><br>
+<td align="center" width="220">
+  <a href="https://github.com/TranDucManhQCT">
+    <img src="https://github.com/TranDucManhQCT.png" width="110" alt="Trần Đức Mạnh">
+    <br><br>
+    <strong>Trần Đức Mạnh</strong>
+    <br>
+    <sub>@TranDucManhQCT</sub>
+  </a>
+</td>
 
-**[Trần Đức Mạnh](https://github.com/TranDucManhQCT)** ·
-**[Võ Hữu Bảo Long](https://github.com/baolong2006)** ·
-**[Phạm Đại Quốc Nguyên](https://github.com/phamdaiquocnguyen)**
+<td align="center" width="220">
+  <a href="https://github.com/baolong2006">
+    <img src="https://github.com/baolong2006.png" width="110" alt="Võ Hữu Bảo Long">
+    <br><br>
+    <strong>Võ Hữu Bảo Long</strong>
+    <br>
+    <sub>@baolong2006</sub>
+  </a>
+</td>
+
+<td align="center" width="220">
+  <a href="https://github.com/phamdaiquocnguyen">
+    <img src="https://github.com/phamdaiquocnguyen.png" width="110" alt="Phạm Đại Quốc Nguyên">
+    <br><br>
+    <strong>Phạm Đại Quốc Nguyên</strong>
+    <br>
+    <sub>@phamdaiquocnguyen</sub>
+  </a>
+</td>
+
+</tr>
+</table>
 
 </div>
+
 ---
 
 ## Nguồn gốc dự án
