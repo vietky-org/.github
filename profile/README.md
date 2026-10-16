@@ -1,10 +1,14 @@
-![Việt Ký Logo](./assets/logo.png)
+<div align="center">
 
-# Việt Ký
+<img src="./assets/logo.png" width="120" alt="Việt Ký Logo">
 
-## Khám phá · Gìn giữ · Kết nối
+<h1>Việt Ký</h1>
 
-### **Một hệ sinh thái mở dành cho việc khám phá lịch sử và văn hóa Việt Nam.**
+<h2>Khám phá · Gìn giữ · Kết nối</h2>
+
+<h3>Một hệ sinh thái mở dành cho việc khám phá lịch sử và văn hóa Việt Nam.</h3>
+
+</div>
 
 [Website](#) · [Project Hub](https://github.com/vietky/project-hub) · [Data](https://github.com/vietky/data)
 
@@ -45,10 +49,16 @@ Từ nền tảng đó, dự án hướng tới việc tiếp tục phát triể
 
 ---
 
-![Việt Ký Logo](./assets/logo.png)
+<div align="center">
 
-### Việt Ký
+<img src="./assets/logo.png" width="64" alt="Việt Ký Logo">
 
-**Lịch sử không chỉ để đọc. Lịch sử để khám phá.**
+<h3>Việt Ký</h3>
 
-*Vietnamese History & Culture Exploration Ecosystem*
+<strong>Lịch sử không chỉ để đọc. Lịch sử để khám phá.</strong>
+
+<br>
+
+<sub>Vietnamese History & Culture Exploration Ecosystem</sub>
+
+</div>
