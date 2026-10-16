@@ -35,131 +35,30 @@ Người dùng có thể khám phá:
 - Nhân vật, địa danh và văn hóa.
 - Mối liên hệ giữa các nội dung.
 - Nguồn tham khảo của thông tin.
-
 ---
+## Developers
 
-## Trải nghiệm khám phá
+<div align="center">
 
-```text
-Timeline
-    ↓
-Historical Event
-    ↓
-Context & Summary
-    ↓
-Related Content
-    ↓
-Sources
-```
+<a href="https://github.com/TranDucManhQCT" title="Trần Đức Mạnh">
+  <img src="https://github.com/TranDucManhQCT.png" width="96" alt="Trần Đức Mạnh">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/baolong2006" title="Võ Hữu Bảo Long">
+  <img src="https://github.com/baolong2006.png" width="96" alt="Võ Hữu Bảo Long">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/phamdaiquocnguyen" title="Phạm Đại Quốc Nguyên">
+  <img src="https://github.com/phamdaiquocnguyen.png" width="96" alt="Phạm Đại Quốc Nguyên">
+</a>
 
-> **Việt Ký không chỉ trình bày điều gì đã xảy ra, mà còn giúp người đọc hiểu bối cảnh, mối liên hệ và nguồn gốc của thông tin.**
+<br><br>
 
----
+**[Trần Đức Mạnh](https://github.com/TranDucManhQCT)** ·
+**[Võ Hữu Bảo Long](https://github.com/baolong2006)** ·
+**[Phạm Đại Quốc Nguyên](https://github.com/phamdaiquocnguyen)**
 
-## Ecosystem
-
-| Repository | Vai trò |
-| :--- | :--- |
-| [`web`](https://github.com/vietky/web) | Website và trải nghiệm khám phá chính |
-| [`data`](https://github.com/vietky/data) | Dữ liệu lịch sử, văn hóa và nguồn tham khảo |
-| [`project-hub`](https://github.com/vietky/project-hub) | Product research, planning và documentation |
-
----
-
-## Định hướng phát triển
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Explore
-
-Timeline  
-Events  
-People  
-Places  
-Culture
-
-</td>
-
-<td width="50%" valign="top">
-
-### Knowledge
-
-Context  
-Related Content  
-Source Transparency  
-Collections
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Open Data
-
-Structured Data  
-Open Dataset  
-Public API
-
-</td>
-
-<td width="50%" valign="top">
-
-### Experience
-
-Web  
-Interactive Map  
-Mobile  
-Educational Experiences
-
-</td>
-</tr>
-</table>
-
----
-
-## Nguyên tắc
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Context first
-
-Không chỉ cung cấp dữ kiện mà giúp người đọc hiểu **bối cảnh, trình tự và mối liên hệ** giữa chúng.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Source transparency
-
-Thông tin cần có khả năng **truy vết về nguồn tham khảo** để người đọc có thể kiểm chứng.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Open knowledge
-
-Dữ liệu và kiến thức được tổ chức theo hướng **có cấu trúc, có thể tái sử dụng và mở rộng**.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Simple exploration
-
-Lịch sử nên dễ tiếp cận ngay cả với người dùng **không có kiến thức nền chuyên sâu**.
-
-</td>
-</tr>
-</table>
-
+</div>
 ---
 
 ## Nguồn gốc dự án
