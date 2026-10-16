@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" width="128" alt="Việt Ký Logo">
+<img src="./assets/logo.png" width="256" alt="Việt Ký Logo">
 
 <h1>Việt Ký</h1>
 
@@ -56,9 +56,7 @@ Từ nền tảng đó, dự án hướng tới việc tiếp tục phát triể
 <h3>Việt Ký</h3>
 <em>“Dân ta phải biết sử ta,<br>
 Cho tường gốc tích nước nhà Việt Nam.”</em>
-
 <br><br>
-
 <sub>— Hồ Chí Minh · Lịch sử nước ta, 1942</sub>
 
 </div>
