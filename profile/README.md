@@ -4,9 +4,9 @@
 
 # Việt Ký
 
-### Khám phá · Gìn giữ · Kết nối
+## Khám phá · Gìn giữ · Kết nối
 
-**Một hệ sinh thái mở dành cho việc khám phá lịch sử và văn hóa Việt Nam.**
+### **Một hệ sinh thái mở dành cho việc khám phá lịch sử và văn hóa Việt Nam.**
 
 <br>
 
