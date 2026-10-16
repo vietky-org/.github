@@ -4,7 +4,7 @@
 
 <h1>Việt Ký</h1>
 
-<h2>Khám phá · Gìn giữ · Kết nối</h2>
+<h2>Dấu Việt - Hồn Việt - Chuyện Việt</h2>
 
 <h3>Một hệ sinh thái mở dành cho việc khám phá lịch sử và văn hóa Việt Nam.</h3>
 
