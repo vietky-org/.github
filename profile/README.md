@@ -42,12 +42,12 @@ Người dùng có thể khám phá:
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center" width="220">
+<td align="center" width="33%">
   <a href="https://github.com/TranDucManhQCT">
-    <img src="https://github.com/TranDucManhQCT.png" width="110" alt="Trần Đức Mạnh">
+    <img src="https://github.com/TranDucManhQCT.png" width="160" alt="Trần Đức Mạnh">
     <br><br>
     <strong>Trần Đức Mạnh</strong>
     <br>
@@ -55,9 +55,9 @@ Người dùng có thể khám phá:
   </a>
 </td>
 
-<td align="center" width="220">
+<td align="center" width="33%">
   <a href="https://github.com/baolong2006">
-    <img src="https://github.com/baolong2006.png" width="110" alt="Võ Hữu Bảo Long">
+    <img src="https://github.com/baolong2006.png" width="160" alt="Võ Hữu Bảo Long">
     <br><br>
     <strong>Võ Hữu Bảo Long</strong>
     <br>
@@ -65,9 +65,9 @@ Người dùng có thể khám phá:
   </a>
 </td>
 
-<td align="center" width="220">
+<td align="center" width="33%">
   <a href="https://github.com/phamdaiquocnguyen">
-    <img src="https://github.com/phamdaiquocnguyen.png" width="110" alt="Phạm Đại Quốc Nguyên">
+    <img src="https://github.com/phamdaiquocnguyen.png" width="160" alt="Phạm Đại Quốc Nguyên">
     <br><br>
     <strong>Phạm Đại Quốc Nguyên</strong>
     <br>
