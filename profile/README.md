@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="./assets/logo.png" width="120" alt="Việt Ký Logo">
+![Việt Ký Logo](./assets/logo.png)
 
 # Việt Ký
 
@@ -8,17 +6,9 @@
 
 ### **Một hệ sinh thái mở dành cho việc khám phá lịch sử và văn hóa Việt Nam.**
 
-<br>
+[Website](#) · [Project Hub](https://github.com/vietky/project-hub) · [Data](https://github.com/vietky/data)
 
-[Website](#) ·
-[Project Hub](https://github.com/vietky/project-hub) ·
-[Data](https://github.com/vietky/data)
-
-</div>
-
-<br>
-
-<img src="./assets/cover.png" width="100%" alt="Việt Ký">
+![Việt Ký](./assets/cover.png)
 
 ---
 
@@ -40,45 +30,10 @@ Người dùng có thể khám phá:
 
 ## Developers
 
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td align="center" width="33%">
-  <a href="https://github.com/TranDucManhQCT">
-    <img src="https://github.com/TranDucManhQCT.png" width="160" alt="Trần Đức Mạnh">
-    <br><br>
-    <strong>Trần Đức Mạnh</strong>
-    <br>
-    <sub>@TranDucManhQCT</sub>
-  </a>
-</td>
-
-<td align="center" width="33%">
-  <a href="https://github.com/baolong2006">
-    <img src="https://github.com/baolong2006.png" width="160" alt="Võ Hữu Bảo Long">
-    <br><br>
-    <strong>Võ Hữu Bảo Long</strong>
-    <br>
-    <sub>@baolong2006</sub>
-  </a>
-</td>
-
-<td align="center" width="33%">
-  <a href="https://github.com/phamdaiquocnguyen">
-    <img src="https://github.com/phamdaiquocnguyen.png" width="160" alt="Phạm Đại Quốc Nguyên">
-    <br><br>
-    <strong>Phạm Đại Quốc Nguyên</strong>
-    <br>
-    <sub>@phamdaiquocnguyen</sub>
-  </a>
-</td>
-
-</tr>
-</table>
-
-</div>
+| [![Trần Đức Mạnh](https://github.com/TranDucManhQCT.png?size=360)](https://github.com/TranDucManhQCT) | [![Võ Hữu Bảo Long](https://github.com/baolong2006.png?size=360)](https://github.com/baolong2006) | [![Phạm Đại Quốc Nguyên](https://github.com/phamdaiquocnguyen.png?size=360)](https://github.com/phamdaiquocnguyen) |
+| :---: | :---: | :---: |
+| **[Trần Đức Mạnh](https://github.com/TranDucManhQCT)** | **[Võ Hữu Bảo Long](https://github.com/baolong2006)** | **[Phạm Đại Quốc Nguyên](https://github.com/phamdaiquocnguyen)** |
+| [@TranDucManhQCT](https://github.com/TranDucManhQCT) | [@baolong2006](https://github.com/baolong2006) | [@phamdaiquocnguyen](https://github.com/phamdaiquocnguyen) |
 
 ---
 
@@ -90,14 +45,10 @@ Từ nền tảng đó, dự án hướng tới việc tiếp tục phát triể
 
 ---
 
-<div align="center">
-
-<img src="./assets/logo.png" width="64" alt="Việt Ký Logo">
+![Việt Ký Logo](./assets/logo.png)
 
 ### Việt Ký
 
 **Lịch sử không chỉ để đọc. Lịch sử để khám phá.**
 
-<sub>Vietnamese History & Culture Exploration Ecosystem</sub>
-
-</div>
+*Vietnamese History & Culture Exploration Ecosystem*
