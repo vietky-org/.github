@@ -8,11 +8,9 @@
 
 <h3>Một hệ sinh thái mở dành cho việc khám phá lịch sử và văn hóa Việt Nam.</h3>
 
+<p><a href="https://vietky.tdmdev.top/"><strong>🌐 vietky.tdmdev.top</strong></a></p>
+
 </div>
-
-[Website](#) · [Project Hub](https://github.com/vietky/project-hub) · [Data](https://github.com/vietky/data)
-
-![Việt Ký](./assets/cover.png)
 
 ---
 
